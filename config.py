@@ -38,7 +38,7 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/mvhaamed/jakoo",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "jakoo")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "vega")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
